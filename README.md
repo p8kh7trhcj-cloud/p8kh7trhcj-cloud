@@ -87,55 +87,106 @@ DEVOPS E INFRAESTRUTURA
 
 ---
 
-## 🚧 Projetos
+<div align="center">
 
-Todos os projetos abaixo são **planejados ou em desenvolvimento**. Cada um ganha link quando houver código e documentação públicos.
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=80&section=header&text=PROJETOS&fontSize=30&fontColor=FFFFFF&fontAlignY=50" alt="PROJETOS"/>
 
-| Projeto | Stack | Objetivo | Status |
-|---|---|---|---|
-| 🔴 **Recon Organizer** | Python · Nmap · JSON | Estruturar resultados de varredura em ambiente autorizado | 🟡 Planejado |
-| 🟣 **API REST Segura** | FastAPI · PostgreSQL · Docker | Autenticação, validação, testes e persistência | 🟡 Planejado |
-| 🔴 **Linux Audit** | Bash · Python | Checar permissões, serviços e pontos de hardening | 🟡 Planejado |
-| 🟣 **Security Lab Notes** | Kali · VirtualBox · Markdown | Documentar experimentos, falhas e correções | 🟡 Planejado |
+<sub>Todos planejados ou em desenvolvimento. Cada um ganha link quando houver código e documentação públicos.</sub>
 
-<sub>Legenda: 🟡 Planejado · 🔵 Em desenvolvimento · 🟢 Publicado</sub>
+<img src="https://img.shields.io/badge/PROJETO-RECON_ORGANIZER-FF0055?style=for-the-badge&labelColor=0D1117" alt="PROJETO RECON ORGANIZER"/><br/><br/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&labelColor=0D1117&logo=python&logoColor=FF0055" alt=" Python"/> <img src="https://img.shields.io/badge/Nmap-0D1117?style=flat-square&labelColor=0D1117&logo=nmap&logoColor=FF0055" alt=" Nmap"/> <img src="https://img.shields.io/badge/JSON-0D1117?style=flat-square&labelColor=0D1117&logo=json&logoColor=FF0055" alt=" JSON"/><br/><br/>
+Estruturar resultados de varredura em ambiente autorizado.<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-PLANEJADO-FF9E00?style=flat-square&labelColor=0D1117" alt="STATUS PLANEJADO"/>
 
----
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF0055,100:0D1117&height=2&section=header" alt=""/>
 
-## 🎯 Metas atuais
+<img src="https://img.shields.io/badge/PROJETO-API_REST_SEGURA-7A22FF?style=for-the-badge&labelColor=0D1117" alt="PROJETO API REST SEGURA"/><br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&labelColor=0D1117&logo=fastapi&logoColor=7A22FF" alt=" FastAPI"/> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&labelColor=0D1117&logo=postgresql&logoColor=7A22FF" alt=" PostgreSQL"/> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&labelColor=0D1117&logo=docker&logoColor=7A22FF" alt=" Docker"/><br/><br/>
+Autenticação, validação, testes e persistência.<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-PLANEJADO-FF9E00?style=flat-square&labelColor=0D1117" alt="STATUS PLANEJADO"/>
 
-- [ ] Publicar o primeiro projeto com README, testes e instruções de execução
-- [ ] Criar uma API com autenticação e testes automatizados
-- [ ] Aprofundar TCP/IP, DNS e HTTP com análise de tráfego no Wireshark
-- [ ] Praticar segurança web em laboratórios legais (ex.: PortSwigger Academy, DVWA, Hack The Box)
-- [ ] Estudar hardening e administração de Linux
-- [ ] Escrever um write-up técnico por mês
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF0055,100:0D1117&height=2&section=header" alt=""/>
 
----
+<img src="https://img.shields.io/badge/PROJETO-LINUX_AUDIT-FF0055?style=for-the-badge&labelColor=0D1117" alt="PROJETO LINUX AUDIT"/><br/><br/>
+<img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&labelColor=0D1117&logo=gnubash&logoColor=FF0055" alt=" Bash"/> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&labelColor=0D1117&logo=python&logoColor=FF0055" alt=" Python"/><br/><br/>
+Checar permissões, serviços e pontos de hardening.<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-PLANEJADO-FF9E00?style=flat-square&labelColor=0D1117" alt="STATUS PLANEJADO"/>
 
-## 🧭 Princípios
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF0055,100:0D1117&height=2&section=header" alt=""/>
 
-```python
-principios = {
-    "segurança":    "menor privilégio por padrão",
-    "código":       "clareza antes de complexidade",
-    "testes":       "validar antes de assumir",
-    "automação":    "eliminar o que é repetitivo",
-    "documentação": "conhecimento reproduzível",
-    "ética":        "autorização, sem exceções",
-}
-```
+<img src="https://img.shields.io/badge/PROJETO-SECURITY_LAB_NOTES-7A22FF?style=for-the-badge&labelColor=0D1117" alt="PROJETO SECURITY LAB NOTES"/><br/><br/>
+<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&labelColor=0D1117&logo=kalilinux&logoColor=7A22FF" alt=" Kali Linux"/> <img src="https://img.shields.io/badge/VirtualBox-0D1117?style=flat-square&labelColor=0D1117&logo=virtualbox&logoColor=7A22FF" alt=" VirtualBox"/> <img src="https://img.shields.io/badge/Markdown-0D1117?style=flat-square&labelColor=0D1117&logo=markdown&logoColor=7A22FF" alt=" Markdown"/><br/><br/>
+Documentar experimentos, falhas e correções.<br/><br/>
+<img src="https://img.shields.io/badge/STATUS-PLANEJADO-FF9E00?style=flat-square&labelColor=0D1117" alt="STATUS PLANEJADO"/>
 
-Achar a vulnerabilidade é só o início: é preciso entender a causa, medir o impacto, corrigir e **verificar se a correção funciona**.
+<sub>Legenda: Planejado · Em desenvolvimento · Publicado</sub>
+
+</div>
 
 ---
-
-## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=p8kh7trhcj-cloud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=7A22FF&text_color=C9D1D9" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p8kh7trhcj-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=C9D1D9&langs_count=8" alt="Linguagens"/>
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=80&section=header&text=METAS%20ATUAIS&fontSize=30&fontColor=FFFFFF&fontAlignY=50" alt="METAS ATUAIS"/>
+
+<img src="https://img.shields.io/badge/CONCLU%C3%8DDAS-0_%2F_6-FF0055?style=for-the-badge&labelColor=0D1117" alt="CONCLUÍDAS 0 / 6"/>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/01-FF0055?style=flat-square&labelColor=0D1117" alt=" 01"/></td>
+    <td>Publicar o primeiro projeto com README, testes e instruções de execução</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/02-7A22FF?style=flat-square&labelColor=0D1117" alt=" 02"/></td>
+    <td>Criar uma API com autenticação e testes automatizados</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/03-FF0055?style=flat-square&labelColor=0D1117" alt=" 03"/></td>
+    <td>Aprofundar TCP/IP, DNS e HTTP com análise de tráfego no Wireshark</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/04-7A22FF?style=flat-square&labelColor=0D1117" alt=" 04"/></td>
+    <td>Praticar segurança web em laboratórios legais (PortSwigger Academy, DVWA, Hack The Box)</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/05-FF0055?style=flat-square&labelColor=0D1117" alt=" 05"/></td>
+    <td>Estudar hardening e administração de Linux</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/06-7A22FF?style=flat-square&labelColor=0D1117" alt=" 06"/></td>
+    <td>Escrever um write-up técnico por mês</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=80&section=header&text=PRINC%C3%8DPIOS&fontSize=30&fontColor=FFFFFF&fontAlignY=50" alt="PRINCÍPIOS"/>
+
+<img src="https://img.shields.io/badge/SEGURAN%C3%87A-menor_privil%C3%A9gio_por_padr%C3%A3o-FF0055?style=for-the-badge&labelColor=0D1117" alt="SEGURANÇA menor privilégio por padrão"/><br/>
+<img src="https://img.shields.io/badge/C%C3%93DIGO-clareza_antes_de_complexidade-7A22FF?style=for-the-badge&labelColor=0D1117" alt="CÓDIGO clareza antes de complexidade"/><br/>
+<img src="https://img.shields.io/badge/TESTES-validar_antes_de_assumir-FF0055?style=for-the-badge&labelColor=0D1117" alt="TESTES validar antes de assumir"/><br/>
+<img src="https://img.shields.io/badge/AUTOMA%C3%87%C3%83O-eliminar_o_que_%C3%A9_repetitivo-7A22FF?style=for-the-badge&labelColor=0D1117" alt="AUTOMAÇÃO eliminar o que é repetitivo"/><br/>
+<img src="https://img.shields.io/badge/DOCUMENTA%C3%87%C3%83O-conhecimento_reproduz%C3%ADvel-FF0055?style=for-the-badge&labelColor=0D1117" alt="DOCUMENTAÇÃO conhecimento reproduzível"/><br/>
+<img src="https://img.shields.io/badge/%C3%89TICA-autoriza%C3%A7%C3%A3o%2C_sem_exce%C3%A7%C3%B5es-7A22FF?style=for-the-badge&labelColor=0D1117" alt="ÉTICA autorização, sem exceções"/><br/>
+
+<sub>Achar a vulnerabilidade é só o início: entender a causa, medir o impacto, corrigir e verificar se a correção funciona.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=80&section=header&text=GITHUB&fontSize=30&fontColor=FFFFFF&fontAlignY=50" alt="GITHUB"/>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=p8kh7trhcj-cloud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=7A22FF&text_color=C9D1D9" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p8kh7trhcj-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=C9D1D9&langs_count=8" alt="Linguagens mais usadas"/>
+</p>
 
 <sub>Os cards dependem de serviços externos e podem ficar indisponíveis. Linguagens exibidas não medem nível de domínio.</sub>
 
@@ -143,20 +194,17 @@ Achar a vulnerabilidade é só o início: é preciso entender a causa, medir o i
 
 ---
 
-## 📫 Contato
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-FF0055?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p8kh7trhcj-cloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7A22FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=80&section=header&text=CONTATO&fontSize=30&fontColor=FFFFFF&fontAlignY=50" alt="CONTATO"/>
 
-```console
-nick@kali:~$ ./encerrar_sessao.sh
-[+] curiosidade   : ativa
-[+] aprendizagem  : contínua
-[+] segurança     : responsabilidade permanente
-```
+<a href="https://github.com/p8kh7trhcj-cloud"><img src="https://img.shields.io/badge/GitHub-FF0055?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-7A22FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=FF0055&background=0D1117&center=true&vCenter=true&width=560&height=60&lines=nick%40kali%3A~%24+.%2Fencerrar_sessao.sh;%5B%2B%5D+curiosidade+%3A+ativa;%5B%2B%5D+aprendizagem+%3A+cont%C3%ADnua;%5B%2B%5D+seguran%C3%A7a+%3A+responsabilidade+permanente" alt="Terminal: curiosidade ativa, aprendizagem contínua, segurança como responsabilidade permanente"/>
 
 <sub>Conhecimento ofensivo aplicado somente em ambientes próprios, controlados ou explicitamente autorizados.</sub>
 
