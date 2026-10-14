@@ -31,40 +31,33 @@ Estudo como aplicações, redes e sistemas operacionais funcionam por dentro. Me
 
 ---
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0055,100:7A22FF&height=55&section=header&text=02%20%E2%80%94%20ARSENAL%20TECNOL%C3%93GICO&fontSize=22&fontColor=FFFFFF&fontAlignY=50" alt="02 %E2%80%94 ARSENAL TECNOL%C3%93GICO"/>
-</div>
+## 02 — ARSENAL TECNOLÓGICO
 
 <div align="center">
 
-**`LINGUAGENS DE PROGRAMAÇÃO`**<br/>
+LINGUAGENS DE PROGRAMAÇÃO
+
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash&theme=dark" alt="Python, C, C++, JavaScript e Bash"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF0055,100:0D1117&height=2&section=header" width="60%" alt=""/>
+BACKEND E BASES DE DADOS
 
-**`BACKEND E BASES DE DADOS`**<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres,redis&theme=dark" alt="FastAPI, Flask, MySQL, PostgreSQL e Redis"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF0055,100:0D1117&height=2&section=header" width="60%" alt=""/>
+SISTEMAS OPERATIVOS
 
-**`SISTEMAS OPERACIONAIS`**<br/>
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali&theme=dark" alt="Linux, Debian, Ubuntu e Kali Linux"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:FF0055,100:0D1117&height=2&section=header" width="60%" alt=""/>
+DEVOPS E INFRAESTRUTURA
 
-**`DEVOPS E INFRAESTRUTURA`**<br/>
 <img src="https://skillicons.dev/icons?i=docker,terraform,git,github,vscode&theme=dark" alt="Docker, Terraform, Git, GitHub e VS Code"/>
 
 </div>
 
 ---
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0055,100:7A22FF&height=55&section=header&text=03%20%E2%80%94%20LABORAT%C3%93RIO%20DE%20CIBERSEGURAN%C3%87A&fontSize=22&fontColor=FFFFFF&fontAlignY=50" alt="03 %E2%80%94 LABORAT%C3%93RIO DE CIBERSEGURAN%C3%87A"/>
-</div>
+## 03 — LABORATÓRIO DE CIBERSEGURANÇA
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/KALI_LINUX-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0055"/>
 <img src="https://img.shields.io/badge/NMAP-0D1117?style=for-the-badge&logo=nmap&logoColor=7A22FF"/>
 <img src="https://img.shields.io/badge/WIRESHARK-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0055"/>
@@ -73,21 +66,24 @@ Estudo como aplicações, redes e sistemas operacionais funcionam por dentro. Me
 <img src="https://img.shields.io/badge/TCPDUMP-0D1117?style=for-the-badge&logo=gnubash&logoColor=7A22FF"/>
 <img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=FF0055"/>
 <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=7A22FF"/>
-<img src="https://img.shields.io/badge/VIRTUALBOX-0D1117?style=for-the-badge&logo=virtualbox&logoColor=FF0055"/>
-
 </div>
 
-**Ciclo de trabalho**
+Metodologia de análise
 
 ```text
-[1] Reconhecimento → mapear ativos e serviços dentro do escopo autorizado
-[2] Análise        → investigar tráfego, configurações e comportamento
-[3] Teste          → validar hipóteses em laboratório controlado
-[4] Documentação   → registrar evidências, impacto e como reproduzir
-[5] Mitigação      → corrigir, reduzir superfície de ataque e reverificar
+[01] RECONHECIMENTO
+     └── Identificar ativos e serviços dentro do âmbito autorizado.
+[02] ANÁLISE
+     └── Investigar tráfego, configurações e comportamento.
+[03] TESTES
+     └── Validar hipóteses em laboratórios controlados.
+[04] DOCUMENTAÇÃO
+     └── Registar evidências, impacto e condições de reprodução.
+[05] MITIGAÇÃO
+     └── Corrigir vulnerabilidades e reduzir a superfície de ataque.
 ```
 
-> ⚠️ **Regra única:** teste ofensivo só com autorização explícita, em ambiente próprio ou dentro do escopo definido.
+Princípio fundamental: qualquer teste ofensivo exige autorização explícita e respeito pelo âmbito definido.
 
 ---
 
