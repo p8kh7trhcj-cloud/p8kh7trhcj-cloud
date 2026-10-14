@@ -70,36 +70,10 @@ DEVOPS E INFRAESTRUTURA
 
 <div align="center">
 
-<h3>Metodologia de análise</h3>
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/01-RECONHECIMENTO-FF0055?style=for-the-badge&labelColor=0D1117" alt="01"/></td>
-    <td>Identificar ativos e serviços dentro do âmbito autorizado.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/02-AN%C3%81LISE-7A22FF?style=for-the-badge&labelColor=0D1117" alt="02"/></td>
-    <td>Investigar tráfego, configurações e comportamento.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/03-TESTES-FF0055?style=for-the-badge&labelColor=0D1117" alt="03"/></td>
-    <td>Validar hipóteses em laboratórios controlados.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/04-DOCUMENTA%C3%87%C3%83O-7A22FF?style=for-the-badge&labelColor=0D1117" alt="04"/></td>
-    <td>Registrar evidências, impacto e condições de reprodução.</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/05-MITIGA%C3%87%C3%83O-FF0055?style=for-the-badge&labelColor=0D1117" alt="05"/></td>
-    <td>Corrigir vulnerabilidades e reduzir a superfície de ataque.</td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PRINC%C3%8DPIO-AUTORIZA%C3%87%C3%83O_EXPL%C3%8DCITA-0D1117?style=for-the-badge&labelColor=FF0055&logo=gnuprivacyguard&logoColor=white" alt="Princípio fundamental: autorização explícita"/>
-
-<sub>Qualquer teste ofensivo exige autorização explícita e respeito pelo âmbito definido.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metodologia.svg">
+  <img src="assets/metodologia.svg" alt="Metodologia de análise: reconhecimento, análise, testes, documentação e mitigação" width="560"/>
+</picture>
 
 </div>
 
