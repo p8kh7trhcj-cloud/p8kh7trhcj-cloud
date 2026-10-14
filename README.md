@@ -183,6 +183,8 @@ Documentar experimentos, falhas e correções.<br/><br/>
 
 <img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=80&section=header&text=GITHUB&fontSize=30&fontColor=FFFFFF&fontAlignY=50" alt="GITHUB"/>
 
+<img height="150" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Octocat, o gatinho do GitHub"/>
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=p8kh7trhcj-cloud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=7A22FF&text_color=C9D1D9" alt="Estatísticas do GitHub"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p8kh7trhcj-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=C9D1D9&langs_count=8" alt="Linguagens mais usadas"/>
