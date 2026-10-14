@@ -70,10 +70,18 @@ DEVOPS E INFRAESTRUTURA
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metodologia.svg">
-  <img src="assets/metodologia.svg" alt="Metodologia de análise: reconhecimento, análise, testes, documentação e mitigação" width="560"/>
-</picture>
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=100&section=header&text=01%20%C2%B7%20RECONHECIMENTO&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=Identificar%20ativos%20e%20servi%C3%A7os%20dentro%20do%20%C3%A2mbito%20autorizado&descSize=16&descAlignY=66&descColor=FFFFFF" alt="01 RECONHECIMENTO: Identificar ativos e serviços dentro do âmbito autorizado"/>
+<br/>
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:7A22FF,100:FF0055&height=100&section=header&text=02%20%C2%B7%20AN%C3%81LISE&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=Investigar%20tr%C3%A1fego%2C%20configura%C3%A7%C3%B5es%20e%20comportamento&descSize=16&descAlignY=66&descColor=FFFFFF" alt="02 ANÁLISE: Investigar tráfego, configurações e comportamento"/>
+<br/>
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=100&section=header&text=03%20%C2%B7%20TESTES&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=Validar%20hip%C3%B3teses%20em%20laborat%C3%B3rios%20controlados&descSize=16&descAlignY=66&descColor=FFFFFF" alt="03 TESTES: Validar hipóteses em laboratórios controlados"/>
+<br/>
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:7A22FF,100:FF0055&height=100&section=header&text=04%20%C2%B7%20DOCUMENTA%C3%87%C3%83O&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=Registrar%20evid%C3%AAncias%2C%20impacto%20e%20condi%C3%A7%C3%B5es%20de%20reprodu%C3%A7%C3%A3o&descSize=16&descAlignY=66&descColor=FFFFFF" alt="04 DOCUMENTAÇÃO: Registrar evidências, impacto e condições de reprodução"/>
+<br/>
+<img width="560" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0055,100:7A22FF&height=100&section=header&text=05%20%C2%B7%20MITIGA%C3%87%C3%83O&fontSize=28&fontColor=FFFFFF&fontAlignY=38&desc=Corrigir%20vulnerabilidades%20e%20reduzir%20a%20superf%C3%ADcie%20de%20ataque&descSize=16&descAlignY=66&descColor=FFFFFF" alt="05 MITIGAÇÃO: Corrigir vulnerabilidades e reduzir a superfície de ataque"/>
+<br/>
+
+<img src="https://img.shields.io/badge/AUTORIZA%C3%87%C3%83O-EXPL%C3%8DCITA_%C2%B7_ESCOPO_DEFINIDO-0D1117?style=for-the-badge&labelColor=FF0055&logo=gnuprivacyguard&logoColor=white" alt="Autorização explícita e escopo definido"/>
 
 </div>
 
