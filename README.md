@@ -1,264 +1,231 @@
-NICK_1TX — CYBERSECURITY & SOFTWARE ENGINEERING
-
+ <!--
+╔══════════════════════════════════════════════════════════════╗
+║ NICK_1TX | CYBERSECURITY • BACKEND • SYSTEMS                ║
+║ Tema: Dark / Neon Red / Electric Purple                     ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=NICKOLAS%20TAVARES&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20%2F%2F%20BACKEND%20%2F%2F%20SYSTEMS&descAlignY=58&descSize=16&descColor=FF0055&animation=fadeIn&color=0:0D1117,50:FF0055,100:7A22FF" alt="Nickolas Tavares — Cybersecurity and Software Engineering" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=FF0055&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Nick_1tx;%24+cat+mission.txt+%E2%86%92+Build.+Break.+Secure.;%24+python+--version+%E2%86%92+Always+learning.;%24+scope+%E2%86%92+Authorized+targets+only." alt="Animated terminal introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:FF0055,75:7A22FF,100:0D1117&height=250&section=header&text=NICKOLAS%20TAVARES&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=%40Nick_1tx%20%7C%20Ciberseguranca%20%2F%2F%20Backend%20%2F%2F%20Sistemas&descSize=15&descAlignY=57&descColor=FF0055&animation=fadeIn" alt="Nickolas Tavares — Cybersecurity, Backend e Sistemas"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=800&color=FF0055&center=true&vCenter=true&width=720&height=55&lines=%24+Inicializando+ambiente+seguro...;%24+Analise+%7C+Automacao+%7C+Engenharia;%24+Aprender.+Construir.+Proteger.;%24+Acesso+autorizado+e+obrigatorio." alt="Terminal animado"/>
 <br/>
-
-UNDERSTAND THE SYSTEM. CHALLENGE THE LIMITS. ENGINEER THE DEFENSE.
-
+<img src="https://img.shields.io/badge/FOCO-CIBERSEGURANÇA-FF0055?style=for-the-badge&labelColor=0D1117" alt="Foco em cibersegurança"/>
+<img src="https://img.shields.io/badge/ÁREA-BACKEND-7A22FF?style=for-the-badge&labelColor=0D1117" alt="Backend"/>
+<img src="https://img.shields.io/badge/SISTEMA-LINUX-FF0055?style=for-the-badge&labelColor=0D1117" alt="Linux"/>
+<img src="https://img.shields.io/badge/ESTADO-EM%20EVOLUÇÃO-7A22FF?style=for-the-badge&labelColor=0D1117" alt="Em evolução"/>
+<a href="https://github.com/p8kh7trhcj-cloud">
+<img src="https://img.shields.io/badge/GITHUB-REPOSITÓRIOS-0D1117?style=for-the-badge&logo=github&logoColor=FF0055" alt="Repositórios GitHub"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=p8kh7trhcj-cloud&style=for-the-badge&color=7A22FF&label=VISITAS" alt="Contador de visitas"/>
 </div>
 
 ⸻
 
-01 / SYSTEM IDENTITY
+01 — QUEM SOU EU?
 
-┌─────────────────────────────────────────────────────────┐
-│  OPERATOR PROFILE                             [ACTIVE]  │
-├─────────────────────────────────────────────────────────┤
-│  USER       : Nickolas Tavares                          │
-│  ALIAS      : Nick_1tx                                  │
-│  ROLE       : Cybersecurity Student / Backend Developer │
-│  EDUCATION  : Análise e Desenvolvimento de Sistemas     │
-│  INSTITUTION: UNIP                                      │
-│  ENVIRONMENT: Linux / Kali Linux                        │
-│  FOCUS      : Security Research / Backend / Automation  │
-├─────────────────────────────────────────────────────────┤
-│  DIRECTIVE  : Learn continuously. Build responsibly.    │
-└─────────────────────────────────────────────────────────┘
+┌──[nick@kali]─[~]
+└─$ whoami
+Nome       : Nickolas Tavares
+Nickname   : Nick_1tx
+Formação   : Análise e Desenvolvimento de Sistemas
+Instituição: UNIP
+Interesses : Cibersegurança, Backend e Sistemas
+Ambiente   : Linux / Kali Linux
+Mentalidade: Aprender, testar, construir e proteger
 
-I study how software, networks and operating systems work — including how they fail — to build more reliable, secure and maintainable systems.
+Sou estudante de Análise e Desenvolvimento de Sistemas, interessado em compreender profundamente o funcionamento de aplicações, redes e sistemas operativos.
 
-My interests combine offensive security in authorized environments with backend engineering, Linux administration and automation.
+Exploro a interseção entre cibersegurança e desenvolvimento de software: compreender vulnerabilidades, automatizar tarefas, desenvolver APIs e criar sistemas mais robustos.
 
-* Security: network reconnaissance, traffic analysis, web application security and vulnerability assessment.
-* Engineering: APIs, databases, scripting, system architecture and containerization.
-* Methodology: document findings, reproduce issues, understand root causes and prioritize remediation.
+* Cibersegurança: análise de redes, segurança web e testes em ambientes autorizados.
+* Desenvolvimento: programação, APIs, bases de dados e arquitetura de aplicações.
+* Sistemas: Linux, administração, automação e infraestrutura.
+* Objetivo: transformar conhecimento técnico em projetos reais, úteis e seguros.
 
-Curiosity drives discovery. Engineering turns discovery into solutions.
+Não basta saber utilizar ferramentas. É preciso compreender o que fazem, por que funcionam e como melhorar os sistemas.
 
 ⸻
 
-02 / TECHNOLOGY STACK
+02 — ARSENAL TECNOLÓGICO
 
 <div align="center">
 
-PROGRAMMING LANGUAGES
+LINGUAGENS DE PROGRAMAÇÃO
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash&theme=dark" alt="Python, C, C++, JavaScript and Bash" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,bash&theme=dark" alt="Python, C, C++, JavaScript e Bash"/>
 
-BACKEND & DATA
+BACKEND E BASES DE DADOS
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres,redis&theme=dark" alt="FastAPI, Flask, MySQL, PostgreSQL and Redis" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres,redis&theme=dark" alt="FastAPI, Flask, MySQL, PostgreSQL e Redis"/>
 
-SYSTEMS & INFRASTRUCTURE
+SISTEMAS OPERATIVOS
 
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,terraform&theme=dark" alt="Linux, Debian, Ubuntu, Docker and Terraform" />
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali&theme=dark" alt="Linux, Debian, Ubuntu e Kali Linux"/>
 
-DEVELOPMENT WORKFLOW
+DEVOPS E INFRAESTRUTURA
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=docker,terraform,git,github,vscode&theme=dark" alt="Docker, Terraform, Git, GitHub e VS Code"/>
 </div>
 
 ⸻
 
-03 / SECURITY LAB
+03 — LABORATÓRIO DE CIBERSEGURANÇA
 
 <div align="center">
-
-DOMAIN	TOOLS & TECHNOLOGIES
-Reconnaissance	Nmap
-Traffic analysis	Wireshark, tcpdump
-Web security	Burp Suite
-Security testing	Metasploit Framework
-Operating systems	Kali Linux, Debian, Ubuntu
-Virtualization	VirtualBox, VMware
-Automation	Python, Bash
-Infrastructure	Docker, Terraform
-
+<img src="https://img.shields.io/badge/KALI_LINUX-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0055"/>
+<img src="https://img.shields.io/badge/NMAP-0D1117?style=for-the-badge&logo=nmap&logoColor=7A22FF"/>
+<img src="https://img.shields.io/badge/WIRESHARK-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0055"/>
+<img src="https://img.shields.io/badge/BURP_SUITE-0D1117?style=for-the-badge&logo=portswigger&logoColor=7A22FF"/>
+<img src="https://img.shields.io/badge/METASPLOIT-0D1117?style=for-the-badge&logo=metasploit&logoColor=FF0055"/>
+<img src="https://img.shields.io/badge/TCPDUMP-0D1117?style=for-the-badge&logo=gnubash&logoColor=7A22FF"/>
+<img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=FF0055"/>
+<img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=7A22FF"/>
 </div>
 
-Research workflow
+Metodologia de análise
 
-01  DEFINE SCOPE
-    └── Establish authorization and testing boundaries.
-02  RECONNAISSANCE
-    └── Identify exposed services and relevant assets.
-03  ANALYSIS
-    └── Investigate configurations, traffic and behavior.
-04  VALIDATION
-    └── Reproduce findings in a controlled environment.
-05  REMEDIATION
-    └── Recommend fixes and reduce the attack surface.
-06  DOCUMENTATION
-    └── Record evidence, limitations and lessons learned.
+[01] RECONHECIMENTO
+     └── Identificar ativos e serviços dentro do âmbito autorizado.
+[02] ANÁLISE
+     └── Investigar tráfego, configurações e comportamento.
+[03] TESTES
+     └── Validar hipóteses em laboratórios controlados.
+[04] DOCUMENTAÇÃO
+     └── Registar evidências, impacto e condições de reprodução.
+[05] MITIGAÇÃO
+     └── Corrigir vulnerabilidades e reduzir a superfície de ataque.
 
-Operating principle: all offensive testing must remain within explicitly authorized systems and environments.
+Princípio fundamental: qualquer teste ofensivo exige autorização explícita e respeito pelo âmbito definido.
 
 ⸻
 
-04 / SELECTED PROJECTS
+04 — PROJETOS E ENGENHARIA
 
-Replace the examples below with repositories that actually exist. Do not present planned work as completed work.
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" alt="Separador visual"/>
+</div>
 <table>
 <tr>
 <td width="50%" valign="top">
 
-01 — Network Recon Toolkit
+🔴 Automação de Reconhecimento
 
-Category: Security automation
+Scripts para organizar resultados de reconhecimento de redes autorizadas.
 
-A Python-based utility for organizing authorized network reconnaissance and producing readable reports.
+Tecnologias: Python · Nmap · JSON
 
-Planned capabilities
-
-* Structured scan results
-* Service inventory
-* Exportable reports
-* Input validation
-
-Stack: Python · Nmap · JSON
+Objetivo: automatizar tarefas repetitivas e estruturar resultados.
 
 </td>
 <td width="50%" valign="top">
 
-02 — Secure API Service
+🟣 API REST Segura
 
-Category: Backend engineering
+Desenvolvimento de uma API com validação de dados, autenticação e persistência.
 
-A REST API designed around maintainability, explicit validation and sensible security defaults.
+Tecnologias: FastAPI · PostgreSQL · Docker
 
-Planned capabilities
-
-* Authentication and authorization
-* Input validation
-* Database integration
-* Automated tests
-
-Stack: FastAPI · PostgreSQL · Docker
+Objetivo: aplicar boas práticas de backend e segurança.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-03 — Linux Audit Scripts
+🔴 Auditoria Linux
 
-Category: Systems engineering
+Scripts para verificar configurações, permissões e serviços do sistema.
 
-A collection of scripts for inspecting system configuration and identifying potential hardening opportunities.
+Tecnologias: Bash · Python · Linux
 
-Planned capabilities
-
-* Permission checks
-* Service inventory
-* Configuration review
-* Actionable output
-
-Stack: Bash · Python · Linux
+Objetivo: facilitar verificações e identificar oportunidades de hardening.
 
 </td>
 <td width="50%" valign="top">
 
-04 — Security Lab Documentation
+🟣 Laboratório de Segurança
 
-Category: Technical research
+Documentação de experiências controladas, vulnerabilidades e medidas corretivas.
 
-A documented collection of controlled lab exercises, observations and remediation notes.
+Tecnologias: Kali Linux · VirtualBox · Markdown
 
-Planned capabilities
-
-* Reproducible lab setups
-* Technical notes
-* Evidence and findings
-* Defensive recommendations
-
-Stack: Kali Linux · VirtualBox · Markdown
+Objetivo: consolidar conhecimento técnico através da prática.
 
 </td>
 </tr>
 </table>
+
+Estes são conceitos de projetos para desenvolver, não declarações de trabalhos concluídos. Os projetos publicados devem ter os respetivos links para o código e documentação.
+
 <div align="center">
-
-Explore my repositories
-
+<a href="https://github.com/p8kh7trhcj-cloud?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORAR-OS%20MEUS%20REPOSITÓRIOS-FF0055?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explorar repositórios"/>
+</a>
 </div>
 
 ⸻
 
-05 / ENGINEERING PRINCIPLES
+05 — ESTATÍSTICAS GITHUB
 
-principles = {
-    "security": "Least privilege by default",
-    "engineering": "Readable code over unnecessary complexity",
-    "testing": "Validate assumptions with evidence",
-    "automation": "Eliminate repetitive manual work",
-    "documentation": "Make decisions reproducible",
-    "ethics": "Authorization is mandatory",
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=p8kh7trhcj-cloud&bg_color=0D1117&color=FF0055&line=7A22FF&point=FF0055&area=true&area_color=7A22FF&hide_border=true&custom_title=ATIVIDADE%20DE%20DESENVOLVIMENTO" alt="Gráfico de atividade GitHub"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=p8kh7trhcj-cloud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=7A22FF&text_color=C9D1D9&rank_icon=github" alt="Estatísticas GitHub"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p8kh7trhcj-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=C9D1D9&langs_count=8" alt="Linguagens dos repositórios"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=p8kh7trhcj-cloud&hide_border=true&background=0D1117&ring=FF0055&fire=7A22FF&currStreakLabel=FF0055&sideLabels=7A22FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Sequência de contribuições"/>
+</div>
+
+As estatísticas dependem de serviços externos e podem não estar disponíveis permanentemente. As linguagens apresentadas não representam, por si só, o nível de domínio.
+
+⸻
+
+06 — OBJETIVOS ATUAIS
+
+* [ ]	Desenvolver ferramentas de automação em Python e Bash.
+* [ ]	Criar APIs com autenticação, validação e testes automatizados.
+* [ ]	Aprofundar conhecimentos de TCP/IP, DNS, HTTP e análise de tráfego.
+* [ ]	Praticar segurança web em laboratórios controlados.
+* [ ]	Estudar hardening e administração de sistemas Linux.
+* [ ]	Publicar projetos documentados, reproduzíveis e com código de qualidade.
+
+⸻
+
+07 — FILOSOFIA DE ENGENHARIA
+
+principios = {
+    "seguranca": "Menor privilegio por defeito",
+    "codigo": "Clareza antes de complexidade",
+    "testes": "Validar antes de assumir",
+    "automacao": "Eliminar tarefas repetitivas",
+    "documentacao": "Conhecimento reproduzivel",
+    "etica": "Autorizacao sem excecoes",
 }
 
-* Secure by design: treat security as an engineering requirement.
-* Understand before optimizing: measure behavior before changing it.
-* Automate deliberately: scripts should be predictable, maintainable and safe.
-* Learn through experimentation: use isolated labs and controlled tests.
-* Document the outcome: a finding is more useful when another engineer can reproduce and understand it.
+A segurança não termina quando uma ferramenta encontra uma vulnerabilidade. É necessário compreender a causa, avaliar o impacto, corrigir o problema e verificar se a solução funciona.
+
+Construir. Testar. Aprender. Melhorar.
 
 ⸻
 
-06 / GITHUB ANALYTICS
+08 — CONTACTO
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=p8kh7trhcj-cloud&bg_color=0d1117&color=FF0055&line=7A22FF&point=FF0055&area=true&area_color=7A22FF&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph" />
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=p8kh7trhcj-cloud&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0055&icon_color=7A22FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p8kh7trhcj-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0055&text_color=C9D1D9" alt="Most-used programming languages" />
-<img width="100%" src="https://streak-stats.demolab.com/?user=p8kh7trhcj-cloud&hide_border=true&background=0D1117&ring=FF0055&fire=7A22FF&currStreakLabel=FF0055&sideLabels=7A22FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
-</div>
+<a href="https://github.com/p8kh7trhcj-cloud">
+<img src="https://img.shields.io/badge/GITHUB-FF0055?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<img src="https://img.shields.io/badge/LINKEDIN-7A22FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn — substituir pelo perfil real"/>
+</a>
+<a href="mailto:SEU-EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF0055?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email — substituir pelo endereço real"/>
+</a>
+nick@kali:~$ ./encerrar_sessao.sh
+[+] Curiosidade: ativa
+[+] Aprendizagem: contínua
+[+] Engenharia: em evolução
+[+] Segurança: responsabilidade permanente
+IDENTIDADE: Nick_1tx
+ESTADO: A CONSTRUIR O PRÓXIMO NÍVEL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:7A22FF,75:FF0055,100:0D1117&height=130&section=footer" alt="Rodapé cyberpunk vermelho e roxo"/>
 
-Analytics are provided by third-party services. Availability and displayed metrics may vary. Language statistics do not necessarily represent proficiency.
-
-⸻
-
-07 / CURRENT OBJECTIVES
-
-* [ ]	Improve Python and Bash automation.
-* [ ]	Build and document secure REST APIs.
-* [ ]	Expand knowledge of TCP/IP and network troubleshooting.
-* [ ]	Practice web security in intentionally vulnerable labs.
-* [ ]	Develop reproducible Linux hardening procedures.
-* [ ]	Publish practical projects with tests and technical documentation.
-
-This checklist represents learning objectives, not verified achievements.
-
-⸻
-
-08 / CONNECT
-
-<div align="center">
-
-Interested in backend development, Linux, systems engineering or ethical security research?
-
-Let’s connect and build something useful.
-
-<!-- Replace the placeholder URLs below with your real profiles. -->
-</div>
-
-⸻
-
-<div align="center">
-$ ./next_iteration.sh
-[+] Learn continuously
-[+] Engineer with purpose
-[+] Test within scope
-[+] Document everything
-[+] Improve every iteration
-SESSION STATUS: IN PROGRESS
-IDENTITY: Nick_1tx
-
-BUILD WITH INTENT. TEST WITH PERMISSION. SECURE BY DESIGN.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7A22FF,50:FF0055,100:0D1117" alt="Cyberpunk footer" />
-
-Ethical security research only. Test only systems you own or are explicitly authorized to assess.
+Conhecimento ofensivo aplicado exclusivamente em ambientes próprios, controlados ou explicitamente autorizados.
 
 </div>
